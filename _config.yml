@@ -1,6 +1,1 @@
-jekyll-incorporated/
-├── _config.yml
-├── _assets/
-    ├── stylesheets/
-        ├── main.scss
-
+theme: jekyll-theme-cayman
